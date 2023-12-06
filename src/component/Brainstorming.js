@@ -20,8 +20,6 @@ const Brainstorming = () => {
         <div className="text-center brain_bg py-5">
           <img src={brain} className='brain_bg' alt="" />
           <h1 className='brain_bg my-4'><b className='brain_bg'>The only brainstorming solution <br />that lives up to the hype</b></h1>
-          {/* <p className='brain_bg' style={{fontSize: '1.4rem'}}>Writer accelerates your writing workflow, from <br />
-                    Writing          Ideation                   Illustrating</p> */}
         </div>
 
         <div className="brain_text text-center brain_bg py-0">
