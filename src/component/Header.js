@@ -28,7 +28,7 @@ const Header = () => {
                 <Nav.Link href="#pricing"className="mx-2"><b>Resources -</b></Nav.Link>
               </Nav>
               
-              <button id="sign_btn" className='btn btn-md mr-4'>Sign in</button>
+              <button id="sign_btn" className='btn btn-lg mr-4'>Sign in</button>
               
               </Container>
 

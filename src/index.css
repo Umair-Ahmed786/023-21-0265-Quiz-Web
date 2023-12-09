@@ -21,7 +21,7 @@ code {
 /* Nav bar */
 #sign_btn{
   border: 2px solid black;
-  border-radius: 45%;
+  border-radius: 50px;
 }
 
 .header_color{
@@ -35,7 +35,7 @@ code {
 #hero_btn1{
   margin-left: 6rem;
   border: 2px solid black;
-  border-radius: 30%;
+  border-radius: 50px;
   margin-top: 1.2rem;
 }
 .herosection_bg{
@@ -45,7 +45,7 @@ code {
 #hero_btn2{
   margin-left: 2rem;
   border: 2px solid black;
- border-radius: 30%;
+ border-radius: 50px;
  background-color: #EB7A65;
  color: white;
  margin-top: 1.2rem;
